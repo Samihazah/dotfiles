@@ -1,8 +1,0 @@
-
-[user]
-	name = Samihazah
-	email = andrzejzkarpinski@gmail.com
-[core]
-	editor = nvim
-[init]
-	defaultBranch = main
