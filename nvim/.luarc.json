@@ -1,0 +1,10 @@
+{
+    "workspace.checkThirdParty": false,
+    "runtime.version": "LuaJIT",
+    "runtime.special": {
+        "love.filesystem.load": "loadfile"
+    },
+    "workspace.library": [
+        "/home/samihazah/.local/share/nvim/lazy/love2d.nvim/love2d/library"
+    ]
+}
